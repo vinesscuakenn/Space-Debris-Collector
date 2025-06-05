@@ -33,7 +33,7 @@ A fast-paced 2D game built with Python and Pygame where you control a spaceship 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, open an issue first to discuss your ideas.
 
 ## Support
-If you enjoy this project, consider sponsoring it on [GitHub Sponsors](https://github.com/sponsors/your-username) to support further development!
+If you enjoy this project, consider sponsoring it on [GitHub Sponsors](https://github.com/sponsors/vinesscuakenn) to support further development!
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
